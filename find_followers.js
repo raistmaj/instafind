@@ -1,4 +1,4 @@
-const username = "raistmaj";
+const username = "<USER NAME HERE>";
 
 /**
  * Initialized like this so typescript can infer the type
